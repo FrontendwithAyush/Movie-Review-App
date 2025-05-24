@@ -11,14 +11,16 @@ A responsive movie review application built using **React.js** and **Bootstrap**
 ![App Preview](./screenshot/movie-preview.png) <!-- Add your screenshot image in a folder called 'screenshots' -->
 
 ---
+- **TMDB API** – Fetching movie data (Requires TMDB API Key)
 
 ## 🚀 Features
 
-- 🎥 **Popular Movies Listing** – See trending movies with posters and ratings
 - 🔍 **Search Functionality** – Search movies by title
+- 🎥 **Popular Movies Listing** – See trending movies with posters and ratings
 - 📄 **Movie Details Page** – Overview, release date, ratings, and more
+ - 🧩 **Routing** – Using `react-router-dom` for navigating between pages
 - 📱 **Responsive UI** – Fully mobile-friendly
-- 🧩 **Routing** – Using `react-router-dom` for navigating between pages
+
 
 ---
 
