@@ -1,4 +1,9 @@
 # 🎬 Movie Review App
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Netlify](https://img.shields.io/badge/Hosted_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 
 A responsive movie review application built using **React.js** and **Bootstrap**. This project uses the TMDB API to fetch movie data and display popular films, search results, detailed info pages, and more — perfect for showcasing React skills in a real-world project.
 
