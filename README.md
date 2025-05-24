@@ -8,7 +8,7 @@ A responsive movie review application built using **React.js** and **Bootstrap**
 
 ## 📸 Preview
 
-![App Preview](./screenshots/movie-preview.png) <!-- Add your screenshot image in a folder called 'screenshots' -->
+![App Preview](./screenshot/movie-preview.png) <!-- Add your screenshot image in a folder called 'screenshots' -->
 
 ---
 
