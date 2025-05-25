@@ -68,9 +68,23 @@ movie-review-app/
 1. Clone the repo
 2. Run `npm install` to install dependencies
 3. Create a `.env` file and add your TMDB API key:
-   REACT_APP_TMDB_KEY=your_api_key_here
+   REACT_APP_TMDB_KEY=141ec65fdbc7fdccd76e51fac613c0f5
 4. Run `npm start` to launch the app
+---
 
+## 📸 Additional Screenshots
+
+<div align="center">
+<img src="./screenshot/img1.png" width="200" />
+<img src="./screenshot/img2.png" width="200" />
+<img src="./screenshot/img3.png" width="200" />
+<br/>
+<img src="./screenshot/img4.png" width="200" />
+<img src="./screenshot/img5.png" width="200" />
+<img src="./screenshot/img6.png" width="200" />
+</div>
+
+---
 
 👤 Author
 Ayush
