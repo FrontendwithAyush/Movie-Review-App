@@ -72,6 +72,7 @@ movie-review-app/
 4. Run `npm start` to launch the app
 ---
 
+---
 ## 📸 Additional Screenshots
 
 <div align="center">
