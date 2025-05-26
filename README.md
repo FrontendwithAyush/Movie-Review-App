@@ -5,7 +5,7 @@
 ![Netlify](https://img.shields.io/badge/Hosted_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-A responsive movie review application built using **React.js** and **Bootstrap**. This project uses the TMDB API to fetch movie data and display popular films, search results, detailed info pages, and more — perfect for showcasing React skills in a real-world project.
+A responsive movie review application built using **React.js** and **Bootstrap**. This project uses the TMDB API to fetch movie&tv shows data and display popular films, search results, detailed info pages, and more — perfect for showcasing React skills in a real-world project.
 
 > 🌐 **Live Demo**: [https://moviereviewa.netlify.app/](https://moviereviewa.netlify.app/)
 
@@ -20,9 +20,9 @@ A responsive movie review application built using **React.js** and **Bootstrap**
 
 ## 🚀 Features
 
-- 🔍 **Search Functionality** – Search movies by title
-- 🎥 **Popular Movies Listing** – See trending movies with posters and ratings
-- 📄 **Movie Details Page** – Overview, release date, ratings, and more
+- 🔍 **Search Functionality** – Search movies & tv shows by title
+- 🎥 **Popular Listing** – See trending movies & tv shows with posters and ratings
+- 📄 **Details Page** – Overview, release date, ratings, and more
  - 🧩 **Routing** – Using `react-router-dom` for navigating between pages
 - 📱 **Responsive UI** – Fully mobile-friendly
 
@@ -46,15 +46,11 @@ movie-review-app/
 │ └── index.html
 ├── src/
 │ ├── components/
-│ │ ├── Navbar.jsx
-│ │ ├── MovieCard.jsx
-│ │ └── MovieDetails.jsx
-│ ├── pages/
-│ │ ├── Home.jsx
-│ │ └── Search.jsx
+│ ├── Home/
+│ ├── images/
 │ ├── App.js
 │ ├── index.js
-│ └── api.js
+│ └── App.css
 ├── .env
 ├── package.json
 └── README.md
